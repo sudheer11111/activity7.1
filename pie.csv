@@ -1,0 +1,5 @@
+tickets,priority,status,company,colors
+48 ,Low , Resolved,IBM,#8BC34A
+30 ,Medium,Cancelled,Microsoft,#D4E157
+20 ,High,Pending,BMC,#FFB300
+15 ,Critical,Assigned,Apple,#FF7043
